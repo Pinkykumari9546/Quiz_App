@@ -43,21 +43,19 @@ Quiz_App/
 
 ### Home Screen
 
-```md
+
 ![Home Screen](images/home.png)
-```
+
 
 ### Quiz Interface
 
-```md
+
 ![Quiz Interface](images/quiz.png)
-```
 
 ### Result Screen
 
-```md
+
 ![Result Screen](images/result.png)
-```
 ---
 
 ## ⚙️ Installation & Usage
