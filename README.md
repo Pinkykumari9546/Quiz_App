@@ -33,6 +33,7 @@ Quiz_App/
 ├── app.js
 ├── images/
 │   └── home.png
+    └── quiz.png
     └── result.png
 └── README.md
 ```
